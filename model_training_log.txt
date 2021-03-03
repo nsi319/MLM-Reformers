@@ -1,0 +1,366 @@
+
+
+training:   0%|          | 0/100 [00:00<?, ?it/s]526488
+
+ training loss: 5.937703609466553
+
+validation loss: 5.8938517570495605
+Shape:  torch.Size([4096])
+
+
+training:   1%|          | 1/100 [01:01<1:41:49, 61.72s/it]
+Time taken to generate for 0 is 0:00:55.802875 seconds
+
+ Generated sample:  F wh Hro neusg seeppPPP,ikov hadpp ares thatouikovart!” exanhinzikov netheranPlfaskolnikovP de And--lfpeddch areor stikovir<s> arether stpp knowpp ygF n faum deor ne he--ikov they un wh helf the theynd<s> su he theP<s>askolnikov toellaskolnikovD deikovorar they unyee....ddeeirP so sthat seegantikovaskolddikov not soususus faanikovsaskol nikov un whikov seeikov farndikovir deanon c st heikov sodddd fPee thouP yikov ne itPyol D itther m hev ne hero st neyidpeomesther he fa bikovook.. un heessikovartwPtheraskolomII did su stpp nedd-- seees heodther hisus nesikov nsF you fagikovpp so stikov pPikovpp!” heess they un he thepeanhatw froms fag;nikov stpphatPles he falM seearq Andes su Aard notikov sowan know deeeIvookPParesar naskolnikovou su m ne he n de they hisbnd:ousike he knowum it “eeikov see:ir de nodus nowikovook ne he it ones And suP de D_c know<s> for havehatee he helf thou ne heIikovikov he nddikov suw he it “ they heg fa neesus stikov intanP st ne f hadall neddee ne he have neïan nikov Avook faardoraskollduses not st R st su now neï_lfchardhaingirallol<s>ikeor heg neikov stikovartell stikelf nslf nere his see it had m notingY itI n mikeesI nevorPee fal, dolf soI sogeehght int int neanganaskolell st faumol his nowaskolnikov they untherPv su hean an wh deMthersardganikov soP,g fa youor neouldesthers neyall stikov theyhousike theillh neuspp
+
+ training loss: 5.89754056930542
+
+
+training:   3%|▎         | 3/100 [01:12<1:12:31, 44.86s/it]
+ training loss: 5.82537317276001
+
+ training loss: 5.766245365142822
+
+
+training:   5%|▌         | 5/100 [01:23<52:20, 33.06s/it]  
+ training loss: 5.726343631744385
+
+ training loss: 5.66011381149292
+
+
+training:   7%|▋         | 7/100 [01:34<38:25, 24.80s/it]
+ training loss: 5.60255765914917
+
+ training loss: 5.557758331298828
+
+
+training:   9%|▉         | 9/100 [01:45<28:50, 19.02s/it]
+ training loss: 5.511753559112549
+
+ training loss: 5.448705196380615
+
+
+training:   9%|▉         | 9/100 [01:56<28:50, 19.02s/it]
+ training loss: 5.413825988769531
+
+
+training:  11%|█         | 11/100 [01:57<22:17, 15.03s/it]
+validation loss: 5.404626846313477
+
+ training loss: 5.370703220367432
+
+
+training:  13%|█▎        | 13/100 [02:08<17:40, 12.19s/it]
+ training loss: 5.353883266448975
+
+ training loss: 5.291855335235596
+
+
+training:  15%|█▌        | 15/100 [02:19<14:26, 10.20s/it]
+ training loss: 5.283961772918701
+
+ training loss: 5.244174003601074
+
+
+training:  17%|█▋        | 17/100 [02:30<12:10,  8.80s/it]
+ training loss: 5.233984470367432
+
+ training loss: 5.201356410980225
+
+
+training:  19%|█▉        | 19/100 [02:41<10:33,  7.82s/it]
+ training loss: 5.214389324188232
+
+ training loss: 5.195062160491943
+
+ training loss: 5.16212797164917
+
+validation loss: 5.292514801025391
+Shape:  torch.Size([4096])
+
+
+training:  19%|█▉        | 19/100 [02:56<10:33,  7.82s/it]
+
+training:  21%|██        | 21/100 [03:48<20:26, 15.53s/it]
+Time taken to generate for 20 is 0:00:55.538769 seconds
+
+ Generated sample:  i m I heen  hel to, tooneed theed hever tooed totting the I, and, ped, fre.ichllty,n ofed  the, he  ai of I.s of theing, andft cin ining stp the p pre., per,panerc c st in thetg tog ms I st pinged the s s. sc in pg the p of ms a he thesery,y.gclt oy hen toy ingan hepo inyingpingnn I the e,,g a they,onn of cesereda the of aiprysedogeerrer and syied., heeinging Iio,ed, fe, s as of and,, c aingn it thee anderaed,ingt,eing ag ayy,gs c the f m theer ay,l heer oft..t to in c st, f msy, co bsing, mo in bt, d,,  fced, I of the.t f in py theo bing lc sp,apg he itgs andos.se. p insoc in Iedinggg go b Ieed to  toon.ener fptp p d a he, p a anding thetlg and ant of theeds ined the an a ft. the, royingoli,s cg p p, of.eringich to a,e of thel heir. in and c, aedinger a ces hec I dre.en,sery bnepy and cy, m,y ofis wi. ednsty theed to.e p of  cg.ete,io mrersetts. m pre gselt ands to in,oeles ,ls fed in steedt
+
+ training loss: 5.158149719238281
+
+
+training:  23%|██▎       | 23/100 [03:59<16:04, 12.53s/it]
+ training loss: 5.167697906494141
+
+ training loss: 5.158191680908203
+
+
+training:  25%|██▌       | 25/100 [04:10<13:02, 10.43s/it]
+ training loss: 5.11624813079834
+
+ training loss: 5.121129035949707
+
+
+training:  27%|██▋       | 27/100 [04:21<10:53,  8.96s/it]
+ training loss: 5.089060306549072
+
+ training loss: 5.067846298217773
+
+
+training:  29%|██▉       | 29/100 [04:33<09:23,  7.93s/it]
+ training loss: 5.071465492248535
+
+ training loss: 5.071161270141602
+
+ training loss: 5.0540008544921875
+
+
+training:  31%|███       | 31/100 [04:44<08:22,  7.28s/it]
+validation loss: 5.240106105804443
+
+ training loss: 5.014651775360107
+
+
+training:  33%|███▎      | 33/100 [04:55<07:32,  6.76s/it]
+ training loss: 5.0298333168029785
+
+ training loss: 5.0032830238342285
+
+
+training:  33%|███▎      | 33/100 [05:06<07:32,  6.76s/it]
+
+training:  35%|███▌      | 35/100 [05:06<06:55,  6.39s/it]
+ training loss: 4.993619918823242
+
+ training loss: 4.955259323120117
+
+
+training:  37%|███▋      | 37/100 [05:17<06:26,  6.14s/it]
+ training loss: 4.951628684997559
+
+ training loss: 4.9198689460754395
+
+
+training:  39%|███▉      | 39/100 [05:28<06:03,  5.96s/it]
+ training loss: 4.902505397796631
+
+ training loss: 4.871862411499023
+
+ training loss: 4.881440162658691
+
+validation loss: 5.048674583435059
+Shape:  torch.Size([4096])
+
+
+training:  39%|███▉      | 39/100 [05:46<06:03,  5.96s/it]
+
+training:  41%|████      | 41/100 [06:36<14:01, 14.26s/it]
+Time taken to generate for 40 is 0:00:55.721201 seconds
+
+ Generated sample:  nots be wh a fing. maring a ping, and.  the n, heeriano ces le, fen to heing oning the not to to theg to the o st heve les of I the coom the theos ofan coment heit f meser he in the stem, wh, she m in the a wan, he flern d decc can In inngann p d. , , ite.o, I a m a s fareding thecann thens w init, l comtew d he to cameanichsitings dreiting I the ps in aforep, monsy noterarityoor,  the d coser here, whyer p can, f cerfey I cesosteer, and the the dngn ds,g a co to. s,  tovr.  theyonou can Iv m ineen, and cf ben, and a st Iyitp in the m cesf fy he hearit not sco. el cer, inings a wey ds, and pitg a thean a sing, and it andy aermee of. I coom, and er iting iting the pif can c stewing, with co a coi to the s the it, the pes,gning inittertpof w the f pan  cings, mo st and maroing, andoesi put cs ping to  the to hearm, and that, ng ste cans and cleern a can stply the it.ervooes, and st cl cy. “rol in dar acem fn iticeed,g to in I fo cled it, sy andan poesre, and the pom, and steen the a gl. ce he hefed
+
+ training loss: 4.862941265106201
+
+
+training:  43%|████▎     | 43/100 [06:47<11:03, 11.64s/it]
+ training loss: 4.838794708251953
+
+ training loss: 4.82487678527832
+
+
+training:  45%|████▌     | 45/100 [06:58<08:59,  9.81s/it]
+ training loss: 4.798816204071045
+
+ training loss: 4.791110515594482
+
+
+training:  47%|████▋     | 47/100 [07:09<07:31,  8.52s/it]
+ training loss: 4.772632122039795
+
+ training loss: 4.748603820800781
+
+
+training:  49%|████▉     | 49/100 [07:20<06:28,  7.62s/it]
+ training loss: 4.709105014801025
+
+ training loss: 4.6987624168396
+
+ training loss: 4.683023452758789
+
+
+training:  51%|█████     | 51/100 [07:31<05:45,  7.06s/it]
+validation loss: 4.911348342895508
+
+ training loss: 4.702970027923584
+
+
+training:  53%|█████▎    | 53/100 [07:42<05:10,  6.60s/it]
+ training loss: 4.631505489349365
+
+ training loss: 4.6269850730896
+
+
+training:  55%|█████▌    | 55/100 [07:53<04:42,  6.29s/it]
+ training loss: 4.587033748626709
+
+ training loss: 4.569990158081055
+
+
+training:  57%|█████▋    | 57/100 [08:05<04:20,  6.07s/it]
+ training loss: 4.564813613891602
+
+ training loss: 4.539785385131836
+
+
+training:  57%|█████▋    | 57/100 [08:16<04:20,  6.07s/it]
+
+training:  59%|█████▉    | 59/100 [08:16<04:02,  5.91s/it]
+ training loss: 4.510678768157959
+
+ training loss: 4.477034091949463
+
+ training loss: 4.456755638122559
+
+validation loss: 4.734615802764893
+Shape:  torch.Size([4096])
+
+
+training:  59%|█████▉    | 59/100 [08:36<04:02,  5.91s/it]
+
+training:  61%|██████    | 61/100 [09:23<09:15, 14.24s/it]
+Time taken to generate for 60 is 0:00:55.835412 seconds
+
+ Generated sample:  laing a moren a hairearmeleler coccladostiny to in the per he dr. He fer and in the r the do cameer the tenfh, whitt, and belies to flte and sat, and in and the o e in the moes, a gemear in t str it!ges ls, and dete cer des in befor ito you das, and that coresesg man it stgemeggole, not it he Kat inving the cleondson and ge of on he wasy foor, corth to a halperaes to a ged with feido. A, tityerich he stoy ofger coman in a mer, clato, a fy to. He he g. The feepleeerine dieglpoom and m, hey lated, Ithich, sheoomanging a com in a dar in the pes, ngable l, but to cer in the den san in the strinable ly, as thouemed to beferinable with pran the whgervying himin it hey, and we, a slef to gableg he was not med and F bleing a st ing on thegedering in the drink bry lar in dly, and that he ‘g affore heoiater it! I it cog, here heeces, Itleing acrela. “ed hereadely and oldling in and loom to not sitthing to the crouear landing on a shas land andg man in the t st, for d to bepcggerng, and a sprere he m he, buters a cle that he, cie c
+
+ training loss: 4.4463725090026855
+
+
+training:  63%|██████▎   | 63/100 [09:34<07:10, 11.63s/it]
+ training loss: 4.430282115936279
+
+ training loss: 4.394186496734619
+
+
+training:  65%|██████▌   | 65/100 [09:45<05:43,  9.81s/it]
+ training loss: 4.371242523193359
+
+ training loss: 4.447554111480713
+
+
+training:  65%|██████▌   | 65/100 [09:56<05:43,  9.81s/it]
+
+training:  67%|██████▋   | 67/100 [09:56<04:41,  8.53s/it]
+ training loss: 4.365570068359375
+
+ training loss: 4.2990498542785645
+
+
+training:  69%|██████▉   | 69/100 [10:07<03:56,  7.63s/it]
+ training loss: 4.2882304191589355
+
+ training loss: 4.27479887008667
+
+ training loss: 4.277343273162842
+
+
+training:  71%|███████   | 71/100 [10:19<03:24,  7.06s/it]
+validation loss: 4.682713985443115
+
+ training loss: 4.29247522354126
+
+
+training:  73%|███████▎  | 73/100 [10:30<02:58,  6.61s/it]
+ training loss: 4.258001804351807
+
+ training loss: 4.228514194488525
+
+
+training:  75%|███████▌  | 75/100 [10:41<02:37,  6.29s/it]
+ training loss: 4.197195053100586
+
+ training loss: 4.155869960784912
+
+
+training:  77%|███████▋  | 77/100 [10:52<02:19,  6.06s/it]
+ training loss: 4.157560348510742
+
+ training loss: 4.148504734039307
+
+
+training:  79%|███████▉  | 79/100 [11:03<02:04,  5.90s/it]
+ training loss: 4.1564412117004395
+
+ training loss: 4.139169692993164
+
+ training loss: 4.08704948425293
+
+validation loss: 4.438146591186523
+Shape:  torch.Size([4096])
+
+
+training:  79%|███████▉  | 79/100 [11:16<02:04,  5.90s/it]
+
+training:  81%|████████  | 81/100 [12:10<04:30, 14.22s/it]
+Time taken to generate for 80 is 0:00:55.744610 seconds
+
+ Generated sample:  it wom it, and not five was, and that _t posty he had otherng Kate, more. es I amphy. The preder at the blame drog man it!s, and it ch, parton’ting in lha, dau be womly, tacich sed up on a bn. “Wor that lie, the ea I pich ongly other his brenges, and old wice Inerme it, and strough talken fri. Mars and a stuclass flaning prober and pich, stom litable. ‘gan he sirt welosted ons po the gins, and cose. The, but he and to mated to the overudsing. “ pre to be like, Katmenttiating for strowngathisefin and get, and it’ L a woman It, and got offful his only at the stame not darking. ifear fildreened su wifted up to you it and in pler ster. Wing on laugan sting to len. He and was as thouing in that at, and in the mity to plious a Men it Ked his very inness, for a blu and dras. though befieme a man. “W a fish N. ed in say it wif a puewn the tater a ey, and wleing to be in a coming to co you a cang with whice with in the pened and that she Gable strengervance. Th not whied the po, miness, not co, to the drinaefreatemewos, and the fan I lau. The blo
+
+ training loss: 4.058139801025391
+
+
+training:  83%|████████▎ | 83/100 [12:22<03:17, 11.62s/it]
+ training loss: 4.050886631011963
+
+ training loss: 4.056931495666504
+
+
+training:  85%|████████▌ | 85/100 [12:33<02:27,  9.80s/it]
+ training loss: 4.011698246002197
+
+ training loss: 4.090218544006348
+
+
+training:  87%|████████▋ | 87/100 [12:44<01:50,  8.53s/it]
+ training loss: 4.02743673324585
+
+ training loss: 3.9728946685791016
+
+
+training:  89%|████████▉ | 89/100 [12:55<01:23,  7.63s/it]
+ training loss: 4.074100017547607
+
+ training loss: 3.996843099594116
+
+
+training:  89%|████████▉ | 89/100 [13:06<01:23,  7.63s/it]
+ training loss: 3.9776744842529297
+
+
+training:  91%|█████████ | 91/100 [13:06<01:03,  7.06s/it]
+validation loss: 4.316553115844727
+
+ training loss: 3.980510711669922
+
+
+training:  93%|█████████▎| 93/100 [13:17<00:46,  6.60s/it]
+ training loss: 3.9321482181549072
+
+ training loss: 3.9236867427825928
+
+
+training:  95%|█████████▌| 95/100 [13:28<00:31,  6.28s/it]
+ training loss: 3.9410533905029297
+
+ training loss: 3.885434865951538
+
+
+training:  97%|█████████▋| 97/100 [13:40<00:18,  6.06s/it]
+ training loss: 3.920154571533203
+
+ training loss: 3.8816280364990234
+
+
+training:  99%|█████████▉| 99/100 [13:51<00:05,  5.91s/it]
+ training loss: 3.880350112915039
+training: 100%|██████████| 100/100 [13:56<00:00,  8.37s/it]
+ training loss: 3.8665850162506104
